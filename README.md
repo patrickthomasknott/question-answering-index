@@ -1,5 +1,4 @@
 # question-answering-index
-C#
 
 Creates a searchable index from the Microsoft Machine Reading Comprehension dataset (msmarco.org).The data consists of 100 000 human generated queries and 1 000 000 results passages from real Bing search engine usage. The correct result(s) for each query are available for system testing, and each  query also has a human generated response.
 
